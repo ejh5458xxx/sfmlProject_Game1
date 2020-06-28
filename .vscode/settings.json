@@ -47,7 +47,7 @@
 		"PATH": "/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 	},
 	"workbench.colorCustomizations": {
-		"statusBar.background": "#8ac242",
+		"statusBar.background": "#0e5788",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.debuggingBackground": "#5e9517",
 		"statusBar.debuggingForeground": "#ffffff",
